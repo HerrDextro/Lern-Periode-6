@@ -15,8 +15,26 @@ Lern-Periode 1 aber im repetiertem Jahr, also LP6. Hier wird ich ein Paar Projek
 - Jetspecs
 
 
-## Arbeit xx.xx.xxxx
+## Arbeit 23.08.2024
+
+Heute möchte ich noch "for old times sake" ein Timer programmieren weil ich das noch nie gemacht habe, und ich möchte mein KI Projekt mit Abbas Raza wieder Aufstarten.
+Ich möchte mein Winforms auch noch erfrichen und besser machen für das bald aufkommende C# Projekt.
+
+- [ ] Timer C#
+- [ ] Winforms Calculator
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Fein-Planung
-
+## Arbeit xx.xx.xxxx
