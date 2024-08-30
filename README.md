@@ -35,7 +35,16 @@ Letztes Mal war ich fast exclusiv damit beschäftigt meine Mitschüler zu helfen
 ### Zusammenfassung 30.08.2024:
 Heute habe ich wieder viel meine Mitschüler geholfen und bin deswegen nicht dazu gekommen meine eigene Arbeitspakete zu erledigen. Ich habe jedoch der Calculator angefangen und have buttons 1 bis 17 schon im UI gemacht. Es ist eine fast Identische Kopie des Windows Taschenrechners im "Standard" modus, es fehlen aber die Constanten die man dort clicken könnte. Ich wird zuhause mein Taschenrechner fertigmachen und dann der timer programmieren damit ich das endlich abkreuzen kann.
 
+## Arbeitspakete auf Sondertag 31.08.2024
 
+- [ ] Buttons 18-24 Namen und Code geben
+- [ ] Hauptfunktionen im top bar programmieren
+- [ ] Basisfunktionen im sidebar
+- [ ] Ignorieren von non Zahl inputs
+
+
+
+## Arbeitspakete auf 06.09.2024
 
 
 
