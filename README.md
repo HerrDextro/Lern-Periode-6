@@ -28,6 +28,12 @@ Ich möchte mein Winforms auch noch erfrichen und besser machen für das bald au
 
 Letztes Mal war ich fast exclusiv damit beschäftigt meine Mitschüler zu helfen, weil ich repetent bin und mehr erfahrung habe. Das ist ironisch, weil ich erst am zweiten Schultag angefangen habe echt zu programmieren. Heute möchte ich also meine Projekte von gestern fertigmachen.
 
+- [ ] Timer C#
+- [ ] Winforms calculator UI
+- [ ] Winforms Calculator functions
+
+### Zusammenfassung 30.08.2024:
+
 
 
 
