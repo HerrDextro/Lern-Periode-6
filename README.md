@@ -42,7 +42,7 @@ Heute habe ich wieder viel meine Mitschüler geholfen und bin deswegen nicht daz
 - [ ] Basisfunktionen im sidebar
 - [ ] Ignorieren von non Zahl inputs
 
-
+## Arbeitspakete 13.09.2024
 
 
 
