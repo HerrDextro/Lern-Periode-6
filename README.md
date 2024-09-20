@@ -64,3 +64,4 @@ Im allgemeinen war diese LP ein sehr guter Start ins Jahr. Ich habe meine Klasse
 Ich wollte dass man mehrere Inputs mit mehrere Operatoren gleichzeitig berechnen konnte, und dazu das der Textbox multiline war. Der Lehrer hat mich dann darauf angedeutet, dass es besser ist um grosse Projekte Schritt vor Schritt zu machen und soe viel möglich aufzuteilen. Plötzlich wurde so eine riesige Aufgabe zu "Wenn Eingabe und klick auf `/`, dann Konvertierung erste Zahl in `LHO`" und war es machbar. Ich habe das dann mehrmals gemacht und habe schlussendlich eine funktionierende Dividierungs-Funktion. Auf der nächste LP wird ich meine Arbetspakete möglichst konkret (wie oben) schreiben und wenn ich festlaufe, wird ich mal auszoomen und schauen wo ich kleine Teile zuerst erledigen kann.
 
 
+<img src="C:\Users\Neo\Downloads"/>
