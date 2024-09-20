@@ -37,17 +37,22 @@ Heute habe ich wieder viel meine Mitschüler geholfen und bin deswegen nicht daz
 
 ## Arbeitspakete auf Sondertag 07.09.2024
 
-- [ ] Buttons 18-24 Namen und Code geben
+- [x] Buttons 18-24 Namen und Code geben
 - [ ] Hauptfunktionen im top bar programmieren
 - [ ] Basisfunktionen im sidebar
 - [ ] Ignorieren von non Zahl inputs
 
+Heute hab ich eine Sondersitzung für mich eingelegt, weil ich bisher im Unterricht meinen lieben Klassenkameraden unter die Arme gegriffen habe. Dabei habe ich die Zahlenbuttons erstellt.
+
 ## Arbeitspakete 13.09.2024
 
+Hier habe ich vergessen zu commiten 😒😒😒
+
+## Arbeitspakete auf 20.09.2024
+
+- [ ] Wenn Eingabe und klick auf `/`, dann Konvertierung erste Zahl in `LHO`
+- [ ] Gleich-Funktion: Konvertierung vom zweiten Operatoren
+- [ ] Gleich-Funktion, Teil 2: Division wird ausgeführt und dargestellt.
+- [ ] Gleiches für die anderen Operatoren (+, -, *) zum Beispiel mit `switch`
 
 
-
-
-## Arbeitspakete auf 06.09.2024
-## Fein-Planung
-## Arbeit xx.xx.xxxx
