@@ -65,3 +65,6 @@ Ich wollte dass man mehrere Inputs mit mehrere Operatoren gleichzeitig berechnen
 
 
 https://raw.githubusercontent.com/HerrDextro/Lern-Periode-6/main/WinFC_GIF.gif
+
+<img src="WinFC_GIF.gif"/>
+WinFC_GIF.gif
