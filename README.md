@@ -65,4 +65,3 @@ Ich wollte dass man mehrere Inputs mit mehrere Operatoren gleichzeitig berechnen
 
 
 <img src="WinFC_GIF.gif"/>
-
